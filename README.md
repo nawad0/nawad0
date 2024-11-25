@@ -1,7 +1,7 @@
 Hi 👋 My name is Doroshko Maksim
 ================================
 
-I am a .Net Developer from Minks, Belarus. I am working on creating different API, web-applications and etc.
+I am a software engineer, working on creating different API, web-applications and etc.
 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [doroshko.m.v@gmail.com](mailto:doroshko.m.v@gmail.com)
